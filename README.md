@@ -1,11 +1,12 @@
 ## bem vindo ao meu perfil 
+
 meu nome é Yasmin de Lima 
 
-• estou estudando na alura;                
+• estou estudando na Alura                
 
 •estou me desenvolvendo na linguagem JavaScript     
 
-• utilizarei este espaço para organizar e compartilhar meus projetos atuais e futuros.
+• utilizarei este espaço para organizar e compartilhar meus projetos atuais e futuros
 
 <!--
 **F3neco/F3neco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
